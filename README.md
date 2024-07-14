@@ -1,3 +1,6 @@
+## Nota a Evaluadores
+Si bien se presenta un documento en PDF como documento tecnico, tambien pueden tomar los dos archivos ubicados en CAPSTONE/Datasets/code/data.ipynb y CAPSTONE/Datasets/code/Model.ipynb donde en el primer archivo esta todo lo relacionado con el dataset y en el segundo ya seria el modelo.
+
 # EEG-Based Mental State Classification
 Este repositorio contiene un modelo de aprendizaje automático que realiza inferencias en la señal EGG para deducir emociones.
 La investigación y los datos proceden principalmente de los siguientes estudios:
